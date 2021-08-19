@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table{
+    width: 95%;
+    margin-left: 30px;
+}
+th{
+    height: 70px;
+    font-size: 25px;
+}
+td{
+    font-size: 20px;
+}
+h2{
+    font-size: 30px;
+}
+button{
+    margin: 5px;
+}
